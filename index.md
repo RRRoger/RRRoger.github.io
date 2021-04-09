@@ -1,5 +1,3 @@
-# FirstProject
-
 # 1. 笔记
 
 ## 0x00 琐碎
