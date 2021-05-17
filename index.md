@@ -144,6 +144,10 @@
 - [我想给团队搭建一个 wiki，大家有什么方便使用的开源 wiki 推荐吗 ？](https://www.v2ex.com/t/735110#reply99)
 - [求推荐开源 markdown 编辑器](https://www.v2ex.com/t/658439#reply40)
 
+### 2. 其他
+
+- [Kevin Kelly 给年轻人的99条建议](https://go123.live/kevin-kelly-99-additional-bits-of-unsolicited-advice-zh-cn/)
+
 ## 0X10 Docker
 
 ### 1. 学习笔记
