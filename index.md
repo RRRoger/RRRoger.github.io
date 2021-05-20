@@ -15,6 +15,7 @@
 * [如何用好搜索引擎？](notebook/trivial/search_egine_cmd.md)
 * [常用英文词汇](notebook/trivial/vocabulary.md)
 * [Mac Airdrop 卡死不动](notebook/trivial/Mac_Airdrop_卡死不动.md)
+* [让 Zsh 终端走代理](notebook/trivial/zsh_use_proxy.md)
 
 ## 0x01 ​​linux
 
@@ -147,6 +148,7 @@
 ### 2. 其他
 
 - [Kevin Kelly 给年轻人的99条建议](https://go123.live/kevin-kelly-99-additional-bits-of-unsolicited-advice-zh-cn/)
+- [Flask 2.0 版本发布](https://greyli.com/flask2/)
 
 ## 0X10 Docker
 
