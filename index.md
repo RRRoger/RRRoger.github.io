@@ -1,6 +1,23 @@
 # 1. 笔记
 
-## 0x00 琐碎
+## 0X01 收藏的帖子与文章
+
+### 1. v2ex (https://www.v2ex.com)
+
+- [公司内部做一次好的技术分享需要注意哪些事情?](https://www.v2ex.com/t/755724)
+- [答:如何写好一篇技术简历?](https://www.v2ex.com/t/623704#reply86)
+- [大家喜欢使用 anaconda 吗？](https://www.v2ex.com/t/521254#reply73)
+- [想出国玩一趟，求指导](https://www.v2ex.com/t/537172#reply129)
+- [该不该提前还贷？](https://www.v2ex.com/t/531921)
+- [我想给团队搭建一个 wiki，大家有什么方便使用的开源 wiki 推荐吗 ？](https://www.v2ex.com/t/735110#reply99)
+- [求推荐开源 markdown 编辑器](https://www.v2ex.com/t/658439#reply40)
+
+### 2. 其他
+
+- [Kevin Kelly 给年轻人的99条建议](https://go123.live/kevin-kelly-99-additional-bits-of-unsolicited-advice-zh-cn/)
+- [Flask 2.0 版本发布](https://greyli.com/flask2/)
+
+## 0x02 琐碎
 
 * [Roger's Gist](https://gist.github.com/RRRoger)
 * [什么是递归?](notebook/trivial/recursion.md)
@@ -17,7 +34,7 @@
 * [Mac Airdrop 卡死不动](notebook/trivial/Mac_Airdrop_卡死不动.md)
 * [让 Zsh 终端走代理](notebook/trivial/zsh_use_proxy.md)
 
-## 0x01 ​​linux
+## 0x03 linux
 
 * [乱炖 - 常用的脚本](notebook/linux/乱炖.md)
 * [Ubuntu安装微软字体](notebook/linux/Ubuntu安装微软字体.md)
@@ -26,11 +43,11 @@
 * [Nginx 服务器证书安装](notebook/linux/nginx_ssl_set_up)
 * [vim最常用的几个命令](notebook/linux/vim最常用的命令.md)
 
-## 0x015 算法
+## 0x04 算法
 
 - [Algorithm-Note](https://github.com/Dairongpeng/algorithm-note)
 
-## 0x02 odoo
+## 0x05 odoo
 
 * [系统 - Supervisor管理odoo服务](notebook/odoo/Supervisor管理odoo服务.md)
 * [安装 - Ubuntu源码安装Odoo10社区版](notebook/odoo/Ubuntu源码安装Odoo10社区版.md)
@@ -44,11 +61,11 @@
 * [模块 - Database auto-backup](https://www.odoo.com/apps/modules/12.0/auto_backup/)
 * [Https-Nginx-Odoo配置](notebook/odoo/https_nginx_setting.md)
 
-## 0x03 ​​小程序
+## 0x06 小程序
 
 *  [微信小程序支持多语言](notebook/weapp/微信小程序支持多语言.md)
 
-## 0x04 数据库
+## 0x07 数据库
 
 ### 0.通用
 
@@ -73,8 +90,6 @@
 * [备份 - 定时自动备份](notebook/database/postgres/定时自动备份.md)
 * [Duplicate - 数据库复制](notebook/database/postgres/数据库复制.md)
 
-
-
 ### 2.oracle
 
 * [cx_Oracle安装](notebook/database/oracle/cx_Oracle安装.md)
@@ -89,12 +104,12 @@
 
 * [基础知识](notebook/database/mongodb/基础知识.md)
 
-## 0x05 rabbitmq
+## 0x08 rabbitmq
 
 * [安装](notebook/rabbitmq/安装mq.md)
 * [清除队列步骤](notebook/rabbitmq/清除队列步骤.md)
 
-## 0x06 python
+## 0x09 python
 
 ### 0、Python
 
@@ -122,35 +137,18 @@
 * [安全注意事项](https://dormousehole.readthedocs.io/en/latest/security.html#id1)
   * [Set-Cookie](https://dormousehole.readthedocs.io/en/latest/security.html#set-cookie)
 
-## 0x07 Script
+## 0x10 Script
 
 * [进制转化](notebook/trivial/进制转换.md)
 
-## 0X08 ​​视频剪辑笔记
+## 0X11 视频剪辑笔记
 
 * [[FCPX] Final Cut Pro Tips](notebook/视频剪辑笔记/Final_Cut_Pro_Tips.md)
 * [[PS] PS Tips](notebook/视频剪辑笔记/PS_Tips.md)
 * [FCPX 教程笔记(via youtube)](notebook/视频剪辑笔记/FCPX教程.md)
 * [FCPX 学习2](notebook/视频剪辑笔记/FCPX学习.md)
 
-## 0X09 收藏的帖子与文章
-
-### 1. v2ex (https://www.v2ex.com)
-
-- [公司内部做一次好的技术分享需要注意哪些事情?](https://www.v2ex.com/t/755724)
-- [答:如何写好一篇技术简历?](https://www.v2ex.com/t/623704#reply86)
-- [大家喜欢使用 anaconda 吗？](https://www.v2ex.com/t/521254#reply73)
-- [想出国玩一趟，求指导](https://www.v2ex.com/t/537172#reply129)
-- [该不该提前还贷？](https://www.v2ex.com/t/531921)
-- [我想给团队搭建一个 wiki，大家有什么方便使用的开源 wiki 推荐吗 ？](https://www.v2ex.com/t/735110#reply99)
-- [求推荐开源 markdown 编辑器](https://www.v2ex.com/t/658439#reply40)
-
-### 2. 其他
-
-- [Kevin Kelly 给年轻人的99条建议](https://go123.live/kevin-kelly-99-additional-bits-of-unsolicited-advice-zh-cn/)
-- [Flask 2.0 版本发布](https://greyli.com/flask2/)
-
-## 0X10 Docker
+## 0X12 Docker
 
 ### 1. 学习笔记
 
@@ -159,8 +157,7 @@
 - [Centos 安装Docker 以及遇到的问题](notebook/docker学习/Centos_安装Docker_以及遇到的问题.md)
 - [minio使用docker部署](notebook/docker学习/minio使用docker部署.md)
 
-
-## 0X11 Golang
+## 0X13 Golang
 
 ### 1. 学习笔记
 
