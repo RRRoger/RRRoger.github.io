@@ -9,18 +9,24 @@
 ```bash
 vim ~/.zshrc
 
-# where proxy
+# cmd: set proxy
 proxy () {
   export http_proxy="http://127.0.0.1:7890"
   export https_proxy="http://127.0.0.1:7890"
-  echo "HTTP Proxy on"
+  echo "HTTP Proxy On."
 }
 
-# where noproxy
+# cmd: unset proxy
 noproxy () {
   unset http_proxy
   unset https_proxy
-  echo "HTTP Proxy off"
+  echo "HTTP Proxy Off."
+}
+
+# cmd: show proxy
+show_proxy () {
+  echo "http_proxy: $http_proxy"
+  echo "https_proxy: $https_proxy"
 }
 ```
 
