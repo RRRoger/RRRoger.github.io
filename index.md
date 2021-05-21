@@ -2,7 +2,8 @@
 
 ## 0X01 收藏的帖子与文章
 
-### 1. v2ex (https://www.v2ex.com)
+### 1. [v2ex](https://www.v2ex.com)
+
 
 - [公司内部做一次好的技术分享需要注意哪些事情?](https://www.v2ex.com/t/755724)
 - [答:如何写好一篇技术简历?](https://www.v2ex.com/t/623704#reply86)
