@@ -24,7 +24,6 @@
 * [什么是递归?](notebook/trivial/recursion.md)
 * [关闭pad和iPhone来电同步](notebook/trivial/关闭pad和iPhone来电同步.md)
 * [mac os 之间屏幕共享](notebook/trivial/macos之间屏幕共享.md)
-* [Cut Music](py-music/readme.md)
 * [搜狗输入法自定义短语](other_script/sougou_input/phrases.ini)
 * [linux和win定时任务实现](notebook/trivial/linux和win定时任务实现.md)
 * [解决Redmine看不到"新建问题"按钮的问题](http://www.redmine.org/boards/2/topics/46330)​​
@@ -164,3 +163,7 @@
 
 - [笔记1](notebook/go语言学习/go_learn.md)
 
+## 0x14 Tools
+
+* [Cut Music](py-music/readme.md)
+* [网易云ncm2mp3](https://github.com/RRRoger/ncm2mp3)
