@@ -74,3 +74,23 @@ for i in range(8):
 #       a.append(value)
 # print a
 
+
+
+# list_res = [
+# {'date': '2021-06-03', 'outer_code': '211121211225', 'product_id': 3928, 'laser_code': 'R01HLDJ580TE'},
+#     {'date': '2021-06-03', 'outer_code': '211121211225', 'product_id': 3928, 'laser_code': 'R01HLDJ579TD'},
+#     {'date': '2021-06-03', 'outer_code': '211121211221', 'product_id': 3926, 'laser_code': 'R01HLDJ576T5'},
+#     {'date': '2021-06-03', 'outer_code': '211121211221', 'product_id': 3926, 'laser_code': 'R01HLDJ576T6'},
+#     {'date': '2021-06-03', 'outer_code': '211121211222', 'product_id': 3926, 'laser_code': 'R01HLDJ576T7'},
+#     {'date': '2021-06-03', 'outer_code': '211121211222', 'product_id': 3926, 'laser_code': 'R01HLDJ576T8'},
+#     {'date': '2021-06-03', 'outer_code': '211121211223', 'product_id': 3927, 'laser_code': 'R01HLDJ576T9'},
+#     {'date': '2021-06-03', 'outer_code': '211121211224', 'product_id': 3927, 'laser_code': 'R01HLDJ577TB'},
+#     {'date': '2021-06-03', 'outer_code': '211121211224', 'product_id': 3927, 'laser_code': 'R01HLDJ578TC'},
+#     {'date': '2021-06-03', 'outer_code': '211121211223', 'product_id': 3927, 'laser_code': 'R01HLDJ576TA'},
+    
+#     ]
+
+# list_res.sort(key=lambda k: (k.get('product_id', 0), k.get('outer_code', 0)))
+
+# print(list_res)
+

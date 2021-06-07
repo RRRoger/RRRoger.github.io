@@ -33,6 +33,7 @@
 * [常用英文词汇](notebook/trivial/vocabulary.md)
 * [Mac Airdrop 卡死不动](notebook/trivial/Mac_Airdrop_卡死不动.md)
 * [让 Zsh 终端走代理](notebook/trivial/zsh_use_proxy.md)
+* [教你如何使用github+jsDelivr搭建免费图床](https://www.cnblogs.com/starry-skys/p/13905766.html)
 
 ## 0x03 linux
 
@@ -103,6 +104,7 @@
 ### 5.monogoDB
 
 * [基础知识](notebook/database/mongodb/基础知识.md)
+* [pymongo使用](notebook/database/mongodb/pymongo使用.md)
 
 ## 0x08 rabbitmq
 
@@ -167,3 +169,4 @@
 
 * [Cut Music](py-music/readme.md)
 * [网易云ncm2mp3](https://github.com/RRRoger/ncm2mp3)
+
