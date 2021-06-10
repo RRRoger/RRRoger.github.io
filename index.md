@@ -34,6 +34,7 @@
 * [Mac Airdrop 卡死不动](notebook/trivial/Mac_Airdrop_卡死不动.md)
 * [让 Zsh 终端走代理](notebook/trivial/zsh_use_proxy.md)
 * [教你如何使用github+jsDelivr搭建免费图床](https://www.cnblogs.com/starry-skys/p/13905766.html)
+* [ELK操作日志管理系统探索](notebook/elk/ELK日志管理系统探索.md)
 
 ## 0x03 linux
 
