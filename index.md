@@ -144,12 +144,19 @@
 
 * [进制转化](notebook/trivial/进制转换.md)
 
-## 0X11 视频剪辑笔记
+## 0X11 视频剪辑&调色笔记
+
+### 视频剪辑
 
 * [[FCPX] Final Cut Pro Tips](notebook/视频剪辑笔记/Final_Cut_Pro_Tips.md)
-* [[PS] PS Tips](notebook/视频剪辑笔记/PS_Tips.md)
 * [FCPX 教程笔记(via youtube)](notebook/视频剪辑笔记/FCPX教程.md)
 * [FCPX 学习2](notebook/视频剪辑笔记/FCPX学习.md)
+
+### 调色
+
+- [[PS] PS Tips](notebook/视频剪辑笔记/PS_Tips.md)
+
+- [青橙色调进阶教程](Lightroom/青橙色调进阶教程.md)
 
 ## 0X12 Docker
 
