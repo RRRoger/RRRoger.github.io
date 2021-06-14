@@ -60,18 +60,18 @@
 
 ### 基本构成
 
-| Item              | Description   | Data Type | e.g. |
-| ----------------- | ------------- | ------------- | ----------------- |
-| 时间戳 | @timestamp | Time String | 2021-06-08T20:08:07.481Z |
-| 用户ip地址 | ip_address | ip | 172.0.0.1 |
-| 环境/租户 | tenant | String | odoo-pro; odoo-sit |
-| 类型          | type          | String | sap_odoo_api; odoo_sap_api; oa_odoo_api |
-| 操作人 | operator | String | Admin \| 陈鹏 |
-| 方法         | method     | String | /a/b/c \|  ABC |
-| 请求报文      | main_data | String | {"a":1, "b": 2} \| plain text |
-| 返回报文      | response | String | {"a":1, "b": 2} \| plain text |
-| 调用时间      | call_time     | String | 2021-06-08 20:08:07 |
-| 成功/失败 | success       | Boolean | True / False |
+| Item              | index  | Description   | Data Type | e.g. |
+| ----------------- | ------------- | ------------- | ----------------- | ----------------- |
+| 时间戳 |  | @timestamp | Time String | 2021-06-08T20:08:07.481Z |
+| 用户ip地址 | true | ip_address | ip | 172.0.0.1 |
+| 环境/租户 | true | tenant | String | odoo-pro; odoo-sit |
+| 类型          | true      | type          | String | sap_odoo_api; odoo_sap_api; oa_odoo_api |
+| 操作人 | true | operator | String | Admin \| 陈鹏 |
+| 方法         | true     | method     | String | /a/b/c \|  ABC |
+| 请求报文      |       | main_data | String | {"a":1, "b": 2} \| plain text |
+| 返回报文      |       | response | String | {"a":1, "b": 2} \| plain text |
+| 调用时间      | true  | call_time     | String | 2021-06-08 20:08:07 |
+| 成功/失败 |  | success       | Boolean | True / False |
 
 ![image-20210610100207028](https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/image-20210610100207028.png)
 
