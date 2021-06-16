@@ -1,5 +1,7 @@
 # ELK操作日志管理系统探索
 
+> ![](https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/elk.png)
+>
 > 官方demo: https://demo.elastic.co/app/discover
 
 # 一、背景
@@ -24,6 +26,10 @@
 `Kibana`: 一个针对Elasticsearch的开源分析及可视化平台
 搜索、查看存储在Elasticsearch索引中的数据
 通过各种图表进行高级数据分析及展示
+
+![image-20210616103954832](https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/image-20210616103954832.png)
+
+![image-20210616142808879](https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/image-20210616142808879.png)
 
 # 三、使用ELK的优势
 
@@ -64,15 +70,15 @@
 | Item              | Type In ES | index  | Description   | Data Type | e.g. |
 | ----------------- | ------------- | ------------- | ----------------- | ----------------- | ----------------- |
 | 时间戳 | @timestamp |  | @timestamp | UTC时间戳 | 2021-06-08T20:08:07.481Z |
-| 客户端ip | text |  | client_ip | ip | 172.0.0.1; |
+| 客户端ip | keyword |  | client_ip | ip | 172.0.0.1; |
 | 环境/租户 | keyword | true | tenant | String | odoo-pro; odoo-sit |
 | 类型          | keyword   | true      | type          | String | sap_odoo_api; odoo_sap_api |
 | 等级 | keyword | true | level | String | `INFO`, `WARNING`, `ERROR`, `DEBUG`... |
-| 操作人 | text | true | operator | String | Admin \| 陈鹏 |
+| 操作人 | keyword | true | operator | String | Admin \| 陈鹏 |
 | 方法         | keyword  | true     | method     | String | /a/b/c \|  ABC |
 | 请求报文      | text  |       | main_data | String | {"a":1, "b": 2} \| plain text |
 | 返回报文      | text  |       | response | String | {"a":1, "b": 2} \| plain text |
-| 调用时间      | text |   | call_time     | String | 2021-06-08 20:08:07 |
+| 调用时间      | keyword |   | call_time     | String | 2021-06-08 20:08:07 |
 | 成功/失败 | keyword |  | success       | Boolean | true / false |
 
 ![image-20210610100207028](https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/image-20210610100207028.png)
@@ -90,13 +96,13 @@
 ### Data 示例
 
 ```json
-# 原始json
+// 原始json
 
 {"client_ip": "127.0.0.1", "@timestamp": "2021-06-16T03:13:38.751Z", "call_time": "2021-06-16 11:13:38", "operator": "Admin", "response": {"msg": "current_date_time 请在 18000 秒以内!!", "success": false}, "tenant": "odoo-pro", "success": false, "level": "INFO", "main_data": {"current_date_time": "20210608151422", "workorders": [{"plan_qty": "2.000 ", "product_line": 10, "work_lines": [{"send_location": "A201", "parent_product_code": "000000029100020000", "into_workorder": "", "line_no": "0001", "workcenter": "JC", "scrap_rate": "0.00 ", "product_qty": "2.000 ", "move_type": "531", "product_code": 29003510000, "unit": "ST"}], "end_date": 20210624, "routine_code": 50000090, "workorder_no": "R11000002553", "routines": [{"work_type": "ZP01", "name": "雷达整机工站测试", "produce_location": "镜筒组装", "sequence": "0010", "line_no": "0010", "station_code": "C18", "note": "雷达整机工站测试"}, {"work_type": "ZP01", "name": "雷达整机路测", "produce_location": "道路测试", "sequence": "0020", "line_no": "0020", "station_code": "C23", "note": "雷达整机路测"}, {"work_type": "ZP02", "name": "雷达整机测试组出库", "produce_location": "镜筒组装", "sequence": "0030", "line_no": "0030", "station_code": "C18", "note": "雷达整机测试组出库"}], "factory_code": 1000, "workcenter": "JCH", "production_manager_desc": "成品-机械雷达", "create_user": "HS360", "production_version": 1130, "production_manager": 107, "routine_version": 1, "product_code": 29100020000, "type": "ZP01", "start_date": 20210623, "unit": "ST", "production_version_desc": "整机测试"}], "md5": "bb31728cc0adf3a9ab780d62cd64cc86"}, "type": "sap-odoo-api", "method": "/webapi/workorder/sync"}
 
 
 
-# 格式化后的json
+// 格式化后的json
 {
     "client_ip": "127.0.0.1",
     "@timestamp": "2021-06-16T03:13:38.751Z",

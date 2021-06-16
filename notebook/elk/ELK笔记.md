@@ -9,7 +9,7 @@
 
 ## 抓取日志方式
 
-- 抓取方式，还是要看日志类型
+抓取方式，还是要看日志类型, 通常是下图方式
 
 ![image-20210616103954832](https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/image-20210616103954832.png)
 
