@@ -1,6 +1,6 @@
 > ***给岁月以文明，而不是给文明以岁月。***
 
-## 0X01 收藏的帖子与文章
+## 0X01 收藏的帖子,文章和项目
 
 ### 1. [v2ex](https://www.v2ex.com)
 
@@ -14,6 +14,8 @@
 - [求推荐开源 markdown 编辑器](https://www.v2ex.com/t/658439#reply40)
 
 ### 2. 其他
+
+-  [*Great GIthub*](notebook/great_github/index.md)
 
 - [Kevin Kelly 给年轻人的99条建议](https://go123.live/kevin-kelly-99-additional-bits-of-unsolicited-advice-zh-cn/)
 - [Flask 2.0 版本发布](https://greyli.com/flask2/)

@@ -70,7 +70,8 @@
 | Item              | Type In ES | index  | Description   | Data Type | e.g. |
 | ----------------- | ------------- | ------------- | ----------------- | ----------------- | ----------------- |
 | 时间戳 | @timestamp |  | @timestamp | UTC时间戳 | 2021-06-08T20:08:07.481Z |
-| 客户端ip | keyword |  | client_ip | ip | 172.0.0.1; |
+| 名称 | keyword | true | name | String | SAP工单同步接口 |
+| 客户端ip | keyword | true | client_ip | String | 172.0.0.1; |
 | 环境/租户 | keyword | true | tenant | String | odoo-pro; odoo-sit |
 | 类型          | keyword   | true      | type          | String | sap_odoo_api; odoo_sap_api |
 | 等级 | keyword | true | level | String | `INFO`, `WARNING`, `ERROR`, `DEBUG`... |
@@ -213,3 +214,4 @@
 
 #### 总结: 各个应用能否记录日志，取决于该应用支不支持编码或者能不能拿到日志文件
 
+:point_down:
