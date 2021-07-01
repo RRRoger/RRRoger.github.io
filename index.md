@@ -16,7 +16,6 @@
 ### 2. 其他
 
 -  [*Great GIthub*](notebook/great_github/index.md)
-
 - [Kevin Kelly 给年轻人的99条建议](https://go123.live/kevin-kelly-99-additional-bits-of-unsolicited-advice-zh-cn/)
 - [Flask 2.0 版本发布](https://greyli.com/flask2/)
 
