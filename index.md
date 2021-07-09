@@ -64,7 +64,7 @@
 - [模块 - Database auto-backup](https://www.odoo.com/apps/modules/12.0/auto_backup/)
 - [Https-Nginx-Odoo配置](notebook/odoo/https_nginx_setting.md)
 - [OdooRpc-Doc](https://pythonhosted.org/OdooRPC/tutorials.html)
-- [`ir.actions.server`添加`json_dumps`函数](notebook/odoo/ir_actions_server_enhance.md)
+- [ir.actions.server添加json_dumps函数](notebook/odoo/ir_actions_server_enhance.md)
 
 ## 0x06 小程序
 
