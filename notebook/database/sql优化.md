@@ -28,7 +28,7 @@ eg:where to_char(created_at, 'yyyy-mm-dd') = '2017-04-17'
 
 #### 7.group使用
 
-> ![](images/group.png)
+> ![](https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/group.png)
 
 > group 无非就是想分组计算并且想拿到nss的name,code,type和np的name,code
 
