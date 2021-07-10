@@ -7,4 +7,6 @@
 - [duf](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/muesli/duf)
   - 一款查看磁盘空间情况的命令行工具，足以代替 df 命令。
 - [GitHub Pages 使用入门](https://www.zybuluo.com/xinx1n/note/675519)
+- [Bilibili(b站)视频下载](https://github.com/Henryhaohao/Bilibili_video_download)
+  - 🌈Bilibili_video_download-B站视频下载
 
