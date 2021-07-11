@@ -119,6 +119,7 @@
 
 ### 0、Python
 
+- [Python Future用法](notebook/python/python_future.md)
 - [minicoda安装步骤及问题](notebook/python/minicoda安装步骤及问题.md)
 - [装饰器](notebook/python/python装饰器.md)
 - [解析配置文件](other_tools/parse_conf_file/解析配置文件.md)
