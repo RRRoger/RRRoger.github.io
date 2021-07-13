@@ -1,6 +1,6 @@
 # ir_actions增强
 
-> `ir.actions.server`添加`json_dumps`函数
+> `ir.actions.server`添加常用python库
 
 ```python
 # -*- coding: utf-8 -*-
@@ -12,9 +12,9 @@ import re
 import base64
 import string
 
-CODE_DESC_HEAD = """# Add Some Frequently-Used libraries In hesai_main By Roger
-# - json, re, base64, string: Python libraries
-# * * * * * * * * * * *
+CODE_DESC_HEAD = """# Add some frequently-used libraries in module `hesai_main`
+#  - json, re, base64, string: Python libraries
+#  * * * * * * * * * * *
 """
 
 

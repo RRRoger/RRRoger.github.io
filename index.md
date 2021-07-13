@@ -62,9 +62,10 @@
 - [模块 - Data Analysis Report](https://github.com/RRRoger/odoo_addons/tree/master/hs_query)
 - [模块 - many2many_tags 支持多选](https://www.odoo.com/fr_FR/forum/aide-1/question/widget-many2many-tags-with-multi-select-90671)
 - [模块 - Database auto-backup](https://www.odoo.com/apps/modules/12.0/auto_backup/)
+- [模块 - 附件下载免登录](https://github.com/RRRoger/odoo_addons/tree/master/api_for_download_attachment_directly)
 - [Https-Nginx-Odoo配置](notebook/odoo/https_nginx_setting.md)
 - [OdooRpc-Doc](https://pythonhosted.org/OdooRPC/tutorials.html)
-- [ir.actions.server添加json_dumps函数](notebook/odoo/ir_actions_server_enhance.md)
+- [ir.actions.server添加常用库函数](notebook/odoo/ir_actions_server_enhance.md)
 
 ## 0x06 小程序
 
@@ -117,7 +118,7 @@
 
 ## 0x09 python
 
-### 0、Python
+### 0、Common
 
 - [Python Future用法](notebook/python/python_future.md)
 - [minicoda安装步骤及问题](notebook/python/minicoda安装步骤及问题.md)
@@ -125,11 +126,7 @@
 - [解析配置文件](other_tools/parse_conf_file/解析配置文件.md)
 - [安装ipython 和 jupyter-notebook](notebook/python/安装ipython&jupyter-notebook-python2.md)
 
-### 1、python2
-
-### 2、python3
-
-### 3、flask
+### 1、flask
 
 - [静态文件加载方式](notebook/python/flask/静态文件加载)
 - [初始化问题解决](notebook/python/flask/初始化问题解决)
