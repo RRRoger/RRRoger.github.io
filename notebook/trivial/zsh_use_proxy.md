@@ -28,6 +28,9 @@ show_proxy () {
   echo "http_proxy: $http_proxy"
   echo "https_proxy: $https_proxy"
 }
+
+# 默认走代理, 注释掉的话需要手动打开代理模式
+proxy
 ```
 
 我用的clash, 所以默认代理端口为7890，如果使用其他代理软件请注意修改端口。
