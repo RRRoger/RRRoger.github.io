@@ -6,10 +6,7 @@
 #
 ##############################################################################
 
-try:
-    import redis
-except ImportError:
-    _logger.error("[Hesai Main] No module named redis")
+import redis
 
 SESSION_TIMEOUT = 60 * 60 * 24 * 7  # 1 weeks in seconds
 
