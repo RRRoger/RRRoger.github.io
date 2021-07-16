@@ -111,6 +111,9 @@
 - [基础知识](notebook/database/mongodb/基础知识.md)
 - [pymongo使用](notebook/database/mongodb/pymongo使用.md)
 
+### 5.Redis
+- [Redis Tools](https://github.com/RRRoger/RRRoger.github.io/blob/master/notebook/database/redis/redis_too.py)
+
 ## 0x08 rabbitmq
 
 - [安装](notebook/rabbitmq/安装mq.md)
