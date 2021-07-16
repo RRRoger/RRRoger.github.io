@@ -112,7 +112,7 @@
 - [pymongo使用](notebook/database/mongodb/pymongo使用.md)
 
 ### 5.Redis
-- [Redis Tools](https://github.com/RRRoger/RRRoger.github.io/blob/master/notebook/database/redis/redis_too.py)
+- [Redis Tools](https://github.com/RRRoger/RRRoger.github.io/blob/master/notebook/database/redis/redis_tools.py)
 
 ## 0x08 rabbitmq
 
