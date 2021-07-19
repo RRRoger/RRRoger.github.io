@@ -18,4 +18,4 @@
 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster)   | Make everything a GitHub svg poster and Skyline!<br />让一切GitHub svg海报和天际线! |
 | [PyG2Plot](https://github.com/hustcc/PyG2Plot)               | 基于 G2Plot 封装的 Python3 可视化库。<br />G2Plot 是蚂蚁集团开源的一个基于图表分类学的可视分析图表库，<br />内置 25+ 常见图表类型。<br />该库是 Python 对 G2Plot 的封装，体验良好，开箱即用 |
 | [DBeaver](https://github.com/dbeaver/dbeaver)                | 支持主流数据库的桌面管理工具。<br />一款用 Java 写的数据库管理工具，只要是 JDBC 支持的数据库它都支持。<br />虽然分免费社区版和付费企业版，但是免费的功能其实已经够用啦 |
-
+|[霞婺文楷](https://github.com/lxgw/LxgwWenKai)|开源字体|
