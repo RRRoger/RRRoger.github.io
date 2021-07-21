@@ -5,6 +5,9 @@
 > - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 > - [Trending](https://github.com/trending/python?since=daily)
 
+![](https://img.shields.io/badge/-python-blue.svg)![](https://img.shields.io/badge/-knowledge-orange.svg)![](https://img.shields.io/badge/-magazine-ff69b4.svg)![](https://img.shields.io/badge/-tool-2FA44F.svg)![](https://img.shields.io/badge/-resource-3AB7D0.svg)
+
+
 | Item                                                         | Tags                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [GitHub Pages 入门](https://www.zybuluo.com/xinx1n/note/675519) | ![](https://img.shields.io/badge/-knowledge-orange.svg)      | GitHub Pages 使用入门                                        |
