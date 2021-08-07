@@ -46,10 +46,6 @@
 - [Nginx 服务器证书安装](notebook/linux/nginx_ssl_set_up)
 - [vim最常用的几个命令](notebook/linux/vim最常用的命令.md)
 
-## 0x04 算法
-
-- [Algorithm-Note](https://github.com/Dairongpeng/algorithm-note)
-
 ## 0x05 odoo
 
 - [系统 - Supervisor管理odoo服务](notebook/odoo/Supervisor管理odoo服务.md)
@@ -161,6 +157,10 @@
 - [[PS] PS Tips](notebook/视频剪辑笔记/PS_Tips.md)
 - [[LR]青橙色调进阶教程](Lightroom/青橙色调进阶教程.md)
 
+### 3. Tools
+
+- [批量写入照片Exif信息](https://github.com/RRRoger/image_tools/tree/main/batch_insert_exif)
+
 ## 0X12 Docker
 
 ### 1. 学习笔记
@@ -176,7 +176,7 @@
 
 - [笔记1](notebook/go语言学习/go_learn.md)
 
-## 0x14 Tools
+## 0x14 Music Tools
 
 - [Cut Music](py-music/readme.md)
 - [网易云ncm2mp3](https://github.com/RRRoger/ncm2mp3)
