@@ -24,6 +24,7 @@
 - [Roger's Gist](https://gist.github.com/RRRoger)
 - [什么是递归?](notebook/trivial/recursion.md)
 - [关闭pad和iPhone来电同步](notebook/trivial/关闭pad和iPhone来电同步.md)
+- [京造 Keychron K6使用说明](https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/IMG_2998.jpg)
 - [mac os 之间屏幕共享](notebook/trivial/macos之间屏幕共享.md)
 - [搜狗输入法自定义短语](other_script/sougou_input/phrases.ini)
 - [linux和win定时任务实现](notebook/trivial/linux和win定时任务实现.md)
