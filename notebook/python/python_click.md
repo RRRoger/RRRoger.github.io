@@ -7,7 +7,7 @@
 > *可以更方便的编写带有参数脚本*.
 
 - 参考链接： 
-  - https://click-docs-zh-cn.readthedocs.io/zh/latest/
+  - [https://click-docs-zh-cn.readthedocs.io/zh/latest/](https://click-docs-zh-cn.readthedocs.io/zh/latest/)
 - 演示环境：
   - `Python3.x`
 
@@ -15,7 +15,7 @@
 
 > """Click 是一个利用很少的代码以可组合的方式创造优雅命令行工具接口的 Python 库。 它是高度可配置的，但却有合理默认值的“命令行接口创建工具”。"""
 
-- 通常我们执行`script.py`文件, 后面跟参数我们是这么做的.
+- 通常我们执行`script.py`文件, 后面跟参数, 我们是这么做的.
 
 ```bash
 python script.py --count=3 --src-dir==/dir
@@ -32,7 +32,7 @@ if __name__ == '__main__':
     arg2 = sys.args[1]
 ```
 
-- 如果我们使用click方式, 可读性更高, 使用也更方便, demo如下:
+- 如果我们使用`click`, 可读性更高, 使用也更方便, demo如下:
 
 ```python
 import click
