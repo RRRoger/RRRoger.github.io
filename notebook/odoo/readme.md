@@ -1,0 +1,16 @@
+# Odoo
+
+- [系统 - Supervisor管理odoo服务](notebook/odoo/Supervisor管理odoo服务.md)
+- [安装 - Ubuntu源码安装Odoo10社区版](notebook/odoo/Ubuntu源码安装Odoo10社区版.md)
+- [安装 - Ubuntu源码安装Odoo12社区版](notebook/odoo/Ubuntu源码安装Odoo12社区版.md)
+- [框架 - one2many搜索去重实现](notebook/odoo/[odoo]one2many搜索去重实现.md)
+- [框架 - 添加自定义按钮](https://github.com/RRRoger/odoo_addons/tree/master/tree_view_button/readme.md)
+- [框架 - odoo接口返回值格式修改](notebook/odoo/odoo接口返回值格式修改.md)
+- [远程 - xmlrpc Call Odoo Server](https://github.com/RRRoger/odoo_addons/tree/master/odoo_xmlrpc/README.md)
+- [模块 - Data Analysis Report](https://github.com/RRRoger/odoo_addons/tree/master/hs_query)
+- [模块 - many2many_tags 支持多选](https://www.odoo.com/fr_FR/forum/aide-1/question/widget-many2many-tags-with-multi-select-90671)
+- [模块 - Database auto-backup](https://www.odoo.com/apps/modules/12.0/auto_backup/)
+- [模块 - 附件下载免登录](https://github.com/RRRoger/odoo_addons/tree/master/api_for_download_attachment_directly)
+- [Https-Nginx-Odoo配置](notebook/odoo/https_nginx_setting.md)
+- [OdooRpc-Doc](https://pythonhosted.org/OdooRPC/tutorials.html)
+- [ir.actions.server添加常用库函数](notebook/odoo/ir_actions_server_enhance.md)

@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "51895b8b3b33c728",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ec0e554ac43063",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f91743a13e78247b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2311f18b036c3fb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6df003571b4483e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd19d35ad4267301",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b359d566f5a56d45",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c5a1f28a3cef21c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c005abd15d6b0fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "54ec0e554ac43063",
+  "lastOpenFiles": [
+    "index.md",
+    "py-music/readme.md",
+    "notebook/golang/未命名.md",
+    "notebook/docker/readme.md",
+    "notebook/scripts/readme.md",
+    "notebook/docker/未命名.md",
+    "notebook/视频剪辑笔记/未命名.md",
+    "notebook/scripts/未命名.md",
+    "notebook/rabbitmq/未命名.md",
+    "notebook/python/readme.md"
+  ]
+}
