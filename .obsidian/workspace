@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "552588f0e85ba111",
+        "id": "8d8f6f10ec45977e",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -82,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "552588f0e85ba111",
+  "active": "8d8f6f10ec45977e",
   "lastOpenFiles": [
-    "xls_tools/readme.md",
-    "notebook/Echarts/echarts_note1.md",
-    "elk.md",
-    "notebook/database/mongodb/查询搜索.md",
-    "notebook/elk/elastic_search.md",
-    "linux.md",
-    "notebook/linux/ubuntu搭建内网穿透服务Ngrok.md",
-    "notebook/trivial/PS Tips.md",
-    "notebook/odoo/Rsync的一些用法.md",
-    "notebook/odoo/Rsync 的一些用法.md"
+    "notebook/trivial/vocabulary.md",
+    "favourites.md",
+    "index.md",
+    "未命名.md",
+    "v2ex.md",
+    "ve2x.md",
+    "trivial.md",
+    "notebook/elk/ELK笔记.md",
+    "notebook/database/postgres/数据库文件.md",
+    "python.md"
   ]
 }
