@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "a73469882290c5ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "552588f0e85ba111",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee61bc10caa4d846",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bf5a81c531d87ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c9595a702380d76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dec4a19050e6e4d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355
+  },
+  "right": {
+    "id": "e9ff1dbd171d675c",
+    "type": "split",
+    "children": [
+      {
+        "id": "279e2ded27395391",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e85a811599b5956d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "552588f0e85ba111",
+  "lastOpenFiles": [
+    "xls_tools/readme.md",
+    "notebook/Echarts/echarts_note1.md",
+    "elk.md",
+    "notebook/database/mongodb/查询搜索.md",
+    "notebook/elk/elastic_search.md",
+    "linux.md",
+    "notebook/linux/ubuntu搭建内网穿透服务Ngrok.md",
+    "notebook/trivial/PS Tips.md",
+    "notebook/odoo/Rsync的一些用法.md",
+    "notebook/odoo/Rsync 的一些用法.md"
+  ]
+}

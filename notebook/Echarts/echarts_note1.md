@@ -15,39 +15,36 @@
 
 - 回调函数格式：
 
-  - ```javascript
-    (params: Object|Array, ticket: string, callback: (ticket: string, html: string)) => string
-    ```
+```javascript
+(params: Object|Array, ticket: string, callback: (ticket: string, html: string)) => string
+```
 
-- ```javascript
-  tooltip: {
-      trigger:'item',
-      padding:[20,10,20,10],
-      formatter:'{a} </br>{b}:{c}%'
-  },
-  ```
+```javascript
+tooltip: {
+  trigger:'item',
+  padding:[20,10,20,10],
+  formatter:'{a} </br>{b}:{c}%'
+},
+```
 
-- 
 
 ## 2. 显示下载按钮
 
 - in variant `option`
 
-- ```javascript
-  toolbox: {
-      //show: true,
-      itemSize: 20,
-      itemGap: 30,
-      right: 50,
-      feature: {
-          dataView: {show:true},  // 显示数据视图
-          saveAsImage: {
-              //excludeComponents :['toolbox'],
-              pixelRatio: 2
-          }
-      }
+```javascript
+toolbox: {
+  //show: true,
+  itemSize: 20,
+  itemGap: 30,
+  right: 50,
+  feature: {
+    dataView: {show:true},  // 显示数据视图
+    saveAsImage: {
+      //excludeComponents :['toolbox'],
+      pixelRatio: 2
+    }
   }
+}
   ```
-
-- 
-
+ 
