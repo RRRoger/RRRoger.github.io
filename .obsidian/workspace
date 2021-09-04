@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notebook/Lightroom/青橙色调进阶教程.md",
-            "mode": "preview"
+            "file": "index.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/Lightroom/青橙色调进阶教程.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/Lightroom/青橙色调进阶教程.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/Lightroom/青橙色调进阶教程.md"
+                "file": "index.md"
               }
             }
           }
@@ -124,20 +124,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b0197cb4a795271d",
   "lastOpenFiles": [
+    "index.md",
+    "docker.md",
+    "music.md",
     "notebook/Lightroom/青橙色调进阶教程.md",
     "视频剪辑笔记.md",
     "notebook/weapp/微信小程序支持多语言.md",
     "notebook/weapp/images/zh_CN.png",
     "notebook/weapp/images/en_US.png",
     "notebook/trivial/zsh_use_proxy.md",
-    "notebook/trivial/vocabulary.md",
-    "notebook/trivial/Ubuntu下socks代理dante-server安装与配置.md",
-    "notebook/trivial/search_egine_cmd.md",
-    "notebook/trivial/recursion.md"
+    "notebook/trivial/vocabulary.md"
   ]
 }
