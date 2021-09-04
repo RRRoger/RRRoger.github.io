@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "03d7d33f912dfbdf",
+        "id": "47112688a12d4382",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -78,7 +78,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "03d7d33f912dfbdf",
+  "active": "47112688a12d4382",
   "lastOpenFiles": [
     "index.md",
-    "categories/trivial.md",
+    "notebook/Echarts/echarts_note1.md",
     "other_script/sougou_input/phrases.ini.md",
-    "categories/golang.md",
-    "categories/favourites.md",
-    "categories/docker.md",
     "categories/database.md",
-    "categories/视频剪辑笔记.md",
     "README.md",
-    "docker.md"
+    "notebook/great_github/index.md",
+    "categories/favourites.md",
+    "categories/trivial.md",
+    "categories/golang.md",
+    "categories/docker.md"
   ]
 }
