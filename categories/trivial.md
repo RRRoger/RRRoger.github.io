@@ -1,11 +1,10 @@
-## Trivial
+## Fragmentary
 
 - [Roger's Gist](https://gist.github.com/RRRoger)
 - [什么是递归?](notebook/trivial/recursion.md)
 - [关闭pad和iPhone来电同步](notebook/trivial/关闭pad和iPhone来电同步.md)
 - [京造 Keychron K6使用说明](https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/IMG_2998.jpg)
 - [mac os 之间屏幕共享](notebook/trivial/macos之间屏幕共享.md)
-- [搜狗输入法自定义短语](other_script/sougou_input/phrases.ini)
 - [linux和win定时任务实现](notebook/trivial/linux和win定时任务实现.md)
 - [解决Redmine看不到"新建问题"按钮的问题](http://www.redmine.org/boards/2/topics/46330)
 - [Ubuntu下socks代理dante-server安装与配置](notebook/trivial/Ubuntu下socks代理dante-server安装与配置.md)

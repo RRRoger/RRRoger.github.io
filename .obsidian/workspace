@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d0abcae8cf9fadd9",
+        "id": "03d7d33f912dfbdf",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "categories/golang.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "categories/golang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "categories/golang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "categories/golang.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -126,17 +119,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d0abcae8cf9fadd9",
+  "active": "03d7d33f912dfbdf",
   "lastOpenFiles": [
+    "index.md",
+    "categories/trivial.md",
+    "other_script/sougou_input/phrases.ini.md",
     "categories/golang.md",
     "categories/favourites.md",
     "categories/docker.md",
     "categories/database.md",
     "categories/视频剪辑笔记.md",
-    "index.md",
     "README.md",
-    "docker.md",
-    "music.md",
-    "notebook/Lightroom/青橙色调进阶教程.md"
+    "docker.md"
   ]
 }
