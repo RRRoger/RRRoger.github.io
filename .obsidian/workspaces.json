@@ -1,0 +1,133 @@
+{
+  "workspaces": {
+    "default": {
+      "main": {
+        "id": "a73469882290c5ef",
+        "type": "split",
+        "children": [
+          {
+            "id": "b0197cb4a795271d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lightroom/青橙色调进阶教程.md",
+                "mode": "source"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ee61bc10caa4d846",
+        "type": "split",
+        "children": [
+          {
+            "id": "9bf5a81c531d87ac",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3c9595a702380d76",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "dec4a19050e6e4d3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c69b464ca963437f",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 355
+      },
+      "right": {
+        "id": "e9ff1dbd171d675c",
+        "type": "split",
+        "children": [
+          {
+            "id": "279e2ded27395391",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e85a811599b5956d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Lightroom/青橙色调进阶教程.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c467bff148d1a175",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "482bb1a00524fdab",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "1c12980eb5b72f9a",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "b0197cb4a795271d"
+    }
+  },
+  "active": "default"
+}

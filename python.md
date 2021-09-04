@@ -3,12 +3,11 @@
 ### 0、Common
 
 - [《Python进阶》](https://py.eastlakeside.cn)
-
 - [Python Future用法](notebook/python/python_future.md)
 - [Python Click](notebook/python/python_click.md)
 - [minicoda安装步骤及问题](notebook/python/minicoda安装步骤及问题.md)
 - [装饰器踩坑](notebook/python/python装饰器.md)
-- [解析配置文件](other_tools/parse_conf_file/解析配置文件.md)
+- [解析配置文件](notebook/python/解析配置文件.md)
 - [安装ipython 和 jupyter-notebook](notebook/python/安装ipython&jupyter-notebook-python2.md)
 
 ### 1、flask

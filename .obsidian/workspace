@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "8d8f6f10ec45977e",
+        "id": "b0197cb4a795271d",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notebook/Lightroom/青橙色调进阶教程.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -44,6 +47,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c69b464ca963437f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -65,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notebook/Lightroom/青橙色调进阶教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,6 +84,39 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c467bff148d1a175",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notebook/Lightroom/青橙色调进阶教程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "482bb1a00524fdab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c12980eb5b72f9a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notebook/Lightroom/青橙色调进阶教程.md"
               }
             }
           }
@@ -82,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8d8f6f10ec45977e",
+  "active": "b0197cb4a795271d",
   "lastOpenFiles": [
+    "notebook/Lightroom/青橙色调进阶教程.md",
+    "视频剪辑笔记.md",
+    "notebook/weapp/微信小程序支持多语言.md",
+    "notebook/weapp/images/zh_CN.png",
+    "notebook/weapp/images/en_US.png",
+    "notebook/trivial/zsh_use_proxy.md",
     "notebook/trivial/vocabulary.md",
-    "favourites.md",
-    "index.md",
-    "未命名.md",
-    "v2ex.md",
-    "ve2x.md",
-    "trivial.md",
-    "notebook/elk/ELK笔记.md",
-    "notebook/database/postgres/数据库文件.md",
-    "python.md"
+    "notebook/trivial/Ubuntu下socks代理dante-server安装与配置.md",
+    "notebook/trivial/search_egine_cmd.md",
+    "notebook/trivial/recursion.md"
   ]
 }
