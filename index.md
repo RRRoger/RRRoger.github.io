@@ -5,30 +5,32 @@
 - [收藏的帖子,文章和项目](categories/favourites.md)
 - [Great GIthub 有用的开源项目](notebook/great_github/index.md)
 
-## Code
-- [零碎的东西](categories/trivial.md)
-- [Roger's Gist](https://gist.github.com/RRRoger)
-- [什么是递归?](notebook/trivial/recursion.md)
-- [关闭pad和iPhone来电同步](notebook/trivial/关闭pad和iPhone来电同步.md)
-- [京造 Keychron K6使用说明](https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/IMG_2998.jpg)
-- [mac os 之间屏幕共享](notebook/trivial/macos之间屏幕共享.md)
-- [linux和win定时任务实现](notebook/trivial/linux和win定时任务实现.md)
-- [解决Redmine看不到"新建问题"按钮的问题](http://www.redmine.org/boards/2/topics/46330)
-- [Ubuntu下socks代理dante-server安装与配置](notebook/trivial/Ubuntu下socks代理dante-server安装与配置.md)
-- [Proxifier：Mac OS给某个单独应用配置代理上网服务](notebook/trivial/Proxifier使用.md)
-- [如何用好搜索引擎？](notebook/trivial/search_egine_cmd.md)
-- [常用英文词汇](notebook/trivial/vocabulary.md)
-- [各个工具换源汇总](各个工具换源汇总.md)
-- [Mac Airdrop 卡死不动](notebook/trivial/Mac_Airdrop_卡死不动.md)
-- [让 Zsh 终端走代理](notebook/trivial/zsh_use_proxy.md)
-- [教你如何使用github+jsDelivr搭建免费图床](https://www.cnblogs.com/starry-skys/p/13905766.html)
-- [ELK操作日志管理系统探索](notebook/elk/ELK日志管理系统探索.md)
-- [ELK笔记](notebook/elk/ELK笔记.md)
-- [解决七夕之后github push失败问题](notebook/trivial/github_push_err.md)
-- [非程序员使用python的场景](notebook/python/非程序员使用python的场景.md)
+## 零碎的东西
+
+- Code
+    - [Roger's Gist](https://gist.github.com/RRRoger)
+    - [linux和win定时任务实现](notebook/trivial/linux和win定时任务实现.md)
+    - [Ubuntu下socks代理dante-server安装与配置](notebook/trivial/Ubuntu下socks代理dante-server安装与配置.md)
+    - [如何用好搜索引擎？](notebook/trivial/search_egine_cmd.md)
+    - [各个工具换源汇总](各个工具换源汇总.md)
+    - [让 Zsh 终端走代理](notebook/trivial/zsh_use_proxy.md)
+    - [教你如何使用github+jsDelivr搭建免费图床](https://www.cnblogs.com/starry-skys/p/13905766.html)
+    - [ELK操作日志管理系统探索](notebook/elk/ELK日志管理系统探索.md)
+    - [ELK笔记](notebook/elk/ELK笔记.md)
+    - [解决七夕之后github push失败问题](notebook/trivial/github_push_err.md)
+    - [非程序员使用python的场景](notebook/python/非程序员使用python的场景.md)
+
+- Others
+    - [关闭pad和iPhone来电同步](notebook/trivial/关闭pad和iPhone来电同步.md)
+    - [京造 Keychron K6使用说明](https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/IMG_2998.jpg)
+    - [mac os 之间屏幕共享](notebook/trivial/macos之间屏幕共享.md)
+    - [Proxifier：Mac OS给某个单独应用配置代理上网服务](notebook/trivial/Proxifier使用.md)
+    - [常用英文词汇](notebook/trivial/vocabulary.md)
+    - [Mac Airdrop 卡死不动](notebook/trivial/Mac_Airdrop_卡死不动.md)
 
 
 ## python
+
 - Common
     - [《Python进阶》](https://py.eastlakeside.cn)
     - [Python Future用法](notebook/python/python_future.md)
@@ -54,6 +56,7 @@
 ## Database
 - 通用
     - [基本 - SQL语句转义字符](notebook/database/sql_escape.md)
+
 - postgres
     - [脚本 - sql优化](notebook/database/sql优化.md)
     - [迁移 - 数据库迁移](notebook/database/postgres/数据库迁移.md)
@@ -114,7 +117,6 @@
 - [模块 - Data Analysis Report](https://github.com/RRRoger/odoo_addons/tree/master/hs_query)
 - [模块 - many2many_tags 支持多选](https://www.odoo.com/fr_FR/forum/aide-1/question/widget-many2many-tags-with-multi-select-90671)
 - [模块 - Database auto-backup](https://www.odoo.com/apps/modules/12.0/auto_backup/)
-- [模块 - 附件下载免登录](https://github.com/RRRoger/odoo_addons/tree/master/api_for_download_attachment_directly)
 - [Https-Nginx-Odoo配置](notebook/odoo/https_nginx_setting.md)
 - [OdooRpc-Doc](https://pythonhosted.org/OdooRPC/tutorials.html)
 - [ir.actions.server添加常用库函数](notebook/odoo/ir_actions_server_enhance.md)
