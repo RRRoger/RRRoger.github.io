@@ -7,8 +7,11 @@
         "id": "2cc623388702e055",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -121,15 +128,15 @@
   },
   "active": "2cc623388702e055",
   "lastOpenFiles": [
-    "notebook/weapp/微信小程序支持多语言.md",
-    "categories/weapp.md",
+    "README.md",
     "test_obsidian.md",
-    "notebook/great_github/index.md",
-    "index.md",
-    "categories/favourites.md",
-    "categories/视频剪辑笔记.md",
-    "notebook/Echarts/echarts_note1.md",
-    "other_script/sougou_input/phrases.ini.md",
-    "categories/database.md"
+    "未命名.md",
+    "2021-09-05.md",
+    "notebook/linux/ubuntu换源.md",
+    "categories/trivial.md",
+    "notebook/odoo/ir_actions_server_enhance.md",
+    "notebook/docker学习/常见问题.md",
+    "notebook/python/python_future.md",
+    "categories/weapp.md"
   ]
 }
