@@ -9,6 +9,7 @@
 
 - Code
     - [Roger's Gist](https://gist.github.com/RRRoger)
+    - [Obsidian笔记](obsidian_tips.md)
     - [linux和win定时任务实现](notebook/trivial/linux和win定时任务实现.md)
     - [Ubuntu下socks代理dante-server安装与配置](notebook/trivial/Ubuntu下socks代理dante-server安装与配置.md)
     - [如何用好搜索引擎？](notebook/trivial/search_egine_cmd.md)

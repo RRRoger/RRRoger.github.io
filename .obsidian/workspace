@@ -7,11 +7,8 @@
         "id": "aaa14b9789e07e26",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "test_obsidian.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -76,13 +73,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test_obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -93,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test_obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "test_obsidian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -136,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -145,15 +137,15 @@
   },
   "active": "aaa14b9789e07e26",
   "lastOpenFiles": [
-    "test_obsidian.md",
-    "index.md",
+    "obsidian_tips.md",
     "README.md",
-    "notebook/python/解析配置文件.md",
-    "notebook/database/postgres/数据库文件.md",
-    "notebook/python/flask/前端之关于火狐不支持reload的问题.md",
-    "未命名.md",
-    "2021-09-05.md",
-    "notebook/linux/ubuntu换源.md",
-    "categories/trivial.md"
+    "index.md",
+    "看板.md",
+    "test_obsidian.md",
+    "未命名看板.md",
+    "notebook/database/postgres/explain.md",
+    "notebook/database/postgres/修改数据库用户.md",
+    "notebook/database/postgres/允许远程访问配置修改.md",
+    "notebook/database/postgres/字符串常用函数.md"
   ]
 }

@@ -1,6 +1,19 @@
-[[weapp]]
+### Test Obsidian Code
+- 使用两个中括号
 
-### 表格插件 *Advanced Tables*
+```
+[[PS人像小技巧]]
+```
+
+- 效果
+
+[[PS人像小技巧]]
+
+### 调出命令面板
+
+- `cmd` + `P`
+
+### 安装表格插件 *Advanced Tables*
 
 | item  | title            | name        | lv2       |
 |:----- |:---------------- |:----------- |:--------- |
@@ -40,11 +53,21 @@ print("hello world.")
 
 ````
 ```gist
-7e4387db26e340b82a53e8e8e854923b
+008427e7045030d1af8b7b6862b54467
 ```
 ````
 - 效果
 
 ```gist
-7e4387db26e340b82a53e8e8e854923b
+008427e7045030d1af8b7b6862b54467
 ```
+### 使用看板
+
+- `cmd` + `p`
+- input: kanban
+
+
+### 预览脑图
+
+- `cmd` + `p`
+- input: mind
