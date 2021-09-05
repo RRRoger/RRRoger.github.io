@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "47112688a12d4382",
+        "id": "2cc623388702e055",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -119,17 +119,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "47112688a12d4382",
+  "active": "2cc623388702e055",
   "lastOpenFiles": [
+    "notebook/weapp/微信小程序支持多语言.md",
+    "categories/weapp.md",
+    "test_obsidian.md",
+    "notebook/great_github/index.md",
     "index.md",
+    "categories/favourites.md",
+    "categories/视频剪辑笔记.md",
     "notebook/Echarts/echarts_note1.md",
     "other_script/sougou_input/phrases.ini.md",
-    "categories/database.md",
-    "README.md",
-    "notebook/great_github/index.md",
-    "categories/favourites.md",
-    "categories/trivial.md",
-    "categories/golang.md",
-    "categories/docker.md"
+    "categories/database.md"
   ]
 }
