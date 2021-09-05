@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2cc623388702e055",
+        "id": "aaa14b9789e07e26",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,28 +110,43 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "2ce99a04eefb11c7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6283267e8e92ff1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2cc623388702e055",
+  "active": "aaa14b9789e07e26",
   "lastOpenFiles": [
+    "index.md",
     "README.md",
     "test_obsidian.md",
+    "notebook/python/解析配置文件.md",
+    "notebook/database/postgres/数据库文件.md",
+    "notebook/python/flask/前端之关于火狐不支持reload的问题.md",
     "未命名.md",
     "2021-09-05.md",
     "notebook/linux/ubuntu换源.md",
-    "categories/trivial.md",
-    "notebook/odoo/ir_actions_server_enhance.md",
-    "notebook/docker学习/常见问题.md",
-    "notebook/python/python_future.md",
-    "categories/weapp.md"
+    "categories/trivial.md"
   ]
 }
