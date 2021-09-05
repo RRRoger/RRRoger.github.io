@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "aaa14b9789e07e26",
+        "id": "0f7f5f2bb4e0477f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notebook/database/postgres/定时自动备份.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notebook/database/postgres/定时自动备份.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notebook/database/postgres/定时自动备份.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notebook/database/postgres/定时自动备份.md"
+              }
             }
           },
           {
@@ -129,23 +136,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "aaa14b9789e07e26",
+  "active": "0f7f5f2bb4e0477f",
   "lastOpenFiles": [
-    "obsidian_tips.md",
-    "README.md",
-    "index.md",
-    "看板.md",
-    "test_obsidian.md",
-    "未命名看板.md",
-    "notebook/database/postgres/explain.md",
-    "notebook/database/postgres/修改数据库用户.md",
-    "notebook/database/postgres/允许远程访问配置修改.md",
-    "notebook/database/postgres/字符串常用函数.md"
+    "notebook/database/postgres/定时自动备份.md",
+    "notebook/database/postgres/看数据库大小等.md",
+    "notebook/database/postgres/常用语句-时间.md",
+    "notebook/database/postgres/常用语句-去重.md",
+    "notebook/database/oracle/cx_Oracle安装.md",
+    "notebook/database/mysql/mysql_script.md",
+    "notebook/database/mongodb/pymongo使用.md",
+    "notebook/database/mongodb/基础知识.md",
+    "notebook/database/images/group.png",
+    "notebook/视频剪辑笔记/PS人像小技巧.md"
   ]
 }
