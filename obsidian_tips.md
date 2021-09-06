@@ -1,5 +1,17 @@
+### Obsidian 快捷键
+- 切换预览模式
+    - `cmd` + `e`
+- 调出命令面板
+    - `cmd` + `p`
+- 返回上一个界面
+    - `cmd` + `option` + `←`
+- 返回下一个界面
+    - `cmd` + `option` + `→`
+- 在所有文件里搜索
+    - `cmd` + `shift` + `f`
+
 ### Test Obsidian Code
-- 使用两个中括号
+- 使用两个中括号引用文件
 
 ```
 [[PS人像小技巧]]
@@ -7,11 +19,8 @@
 
 - 效果
 
-[[PS人像小技巧]]
+    - [[PS人像小技巧]]
 
-### 调出命令面板
-
-- `cmd` + `P`
 
 ### 安装表格插件 *Advanced Tables*
 
@@ -48,7 +57,7 @@ print("hello world.")
 ```
 
 ### 引用gist代码
-- 使用插件`Gist`
+- 需要使用插件`Gist`
 - 示例
 
 ````
@@ -68,6 +77,6 @@ print("hello world.")
 
 
 ### 预览脑图
-
+- 需要使用插件`Mind Map`
 - `cmd` + `p`
 - input: mind

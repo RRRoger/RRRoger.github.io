@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0f7f5f2bb4e0477f",
+        "id": "4a37fdb12ee55f4b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notebook/database/postgres/定时自动备份.md",
+            "file": "categories/favourites.md",
             "mode": "preview"
           }
         }
@@ -60,7 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355
+    "width": 272
   },
   "right": {
     "id": "e9ff1dbd171d675c",
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/database/postgres/定时自动备份.md",
+                "file": "categories/favourites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/database/postgres/定时自动备份.md",
+                "file": "categories/favourites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/database/postgres/定时自动备份.md"
+                "file": "categories/favourites.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "id": "2ce99a04eefb11c7",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "empty",
               "state": {}
             }
           },
@@ -132,28 +132,43 @@
             "id": "a6283267e8e92ff1",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7c6e8053b82f421",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "35ce3c4edacaf6ee",
+            "type": "leaf",
+            "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0f7f5f2bb4e0477f",
+  "active": "4a37fdb12ee55f4b",
   "lastOpenFiles": [
-    "notebook/database/postgres/定时自动备份.md",
-    "notebook/database/postgres/看数据库大小等.md",
-    "notebook/database/postgres/常用语句-时间.md",
-    "notebook/database/postgres/常用语句-去重.md",
-    "notebook/database/oracle/cx_Oracle安装.md",
-    "notebook/database/mysql/mysql_script.md",
-    "notebook/database/mongodb/pymongo使用.md",
-    "notebook/database/mongodb/基础知识.md",
-    "notebook/database/images/group.png",
-    "notebook/视频剪辑笔记/PS人像小技巧.md"
+    "categories/favourites.md",
+    "index.md",
+    "notebook/linux/vim最常用的命令.md",
+    "notebook/linux/ubuntu换源.md",
+    "notebook/linux/ubuntu搭建内网穿透服务Ngrok.md",
+    "notebook/linux/Ubuntu安装微软字体.md",
+    "notebook/linux/tools.md",
+    "notebook/linux/Rsync的一些用法.md",
+    "notebook/linux/nginx_ssl_set_up.md",
+    "notebook/linux/乱炖.md"
   ]
 }

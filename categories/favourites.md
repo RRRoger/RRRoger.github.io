@@ -11,7 +11,18 @@
 - [求推荐开源 markdown 编辑器](https://www.v2ex.com/t/658439#reply40)
 - [Python 中同一个字符串的 hash 值在不同机器上为啥不一样？](https://www.v2ex.com/t/787660#reply8)
 
-### 2. 其他
+
+### 2. Blogs
+
+- [PostgreSQL - 一文看懂explain](https://www.zou8944.com/archives/postgresql-yi-wen-kan-dong-explain#etErMfex)
+
+
+### 3. 知乎
+
+- [linux命令英文全称](https://zhuanlan.zhihu.com/p/405637789)
+- [你知道波兰表达式和逆波兰表达式吗](https://zhuanlan.zhihu.com/p/65110137)
+
+### 其他
 
 - [Kevin Kelly 给年轻人的99条建议](https://go123.live/kevin-kelly-99-additional-bits-of-unsolicited-advice-zh-cn/)
 - [Flask 2.0 版本发布](https://greyli.com/flask2/)

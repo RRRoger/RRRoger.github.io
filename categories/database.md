@@ -27,6 +27,7 @@
 - [VACUUM - 垃圾收集](../notebook/database/postgres/vacuum.md)
 - [MVCC 机制浅析](http://mysql.taobao.org/monthly/2017/10/01/)
 - [EXPLAIN 使用浅析](../notebook/database/postgres/explain.md)
+- [性能优化](../notebook/database/postgres/性能优化.md)
 
 #### 2.oracle
 

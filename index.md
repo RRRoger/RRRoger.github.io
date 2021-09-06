@@ -20,6 +20,7 @@
     - [ELK笔记](notebook/elk/ELK笔记.md)
     - [解决七夕之后github push失败问题](notebook/trivial/github_push_err.md)
     - [非程序员使用python的场景](notebook/python/非程序员使用python的场景.md)
+    - [英文缩写解释](英文缩写解释.md)
 
 - Others
     - [关闭pad和iPhone来电同步](notebook/trivial/关闭pad和iPhone来电同步.md)
@@ -77,6 +78,7 @@
     - [脚本 - 常用语句-去重](notebook/database/postgres/常用语句-去重.md)
     - [备份 - 定时自动备份](notebook/database/postgres/定时自动备份.md)
     - [Duplicate - 数据库复制](notebook/database/postgres/数据库复制.md)
+    - [性能优化](notebook/database/postgres/性能优化.md)
     - [VACUUM - 垃圾收集](notebook/database/postgres/vacuum.md)
     - [MVCC 机制浅析](http://mysql.taobao.org/monthly/2017/10/01/)
     - [EXPLAIN 使用浅析](notebook/database/postgres/explain.md)

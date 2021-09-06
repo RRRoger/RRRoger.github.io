@@ -7,10 +7,11 @@ kanban-plugin: basic
 ## doing
 
 - [ ] [[vacuum]] 
-- [ ] [[explain]]
+- [ ] [[英文缩写解释]]
 
 
 ## done
 
+- [ ] [[explain]]
 
 

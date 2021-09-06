@@ -14,7 +14,7 @@
 | ------------------- | -------------------------- | ----- |
 | "abc"               | 完全匹配搜索"abc"          | `GBM` |
 | -abc                | 不包含"abc"                | `GM`  |
-| a*c                 | "abc"也符合                | `GBM` |
+| `a*c`                 | "abc"也符合                | `GBM` |
 | inurl:abc           | "abc"在url里               | `GB`  |
 | allinurl:abc cdf    | 相当于inurl含多组关键词    | `G`   |
 | inanchor:点击这里   | 点击这里在链接文字中出现   | `G`   |
