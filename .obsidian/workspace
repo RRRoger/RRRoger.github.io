@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "6a875cf2b054fc43",
+        "id": "9288e1f9aaa416ac",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -151,7 +151,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6a875cf2b054fc43",
+  "active": "9288e1f9aaa416ac",
   "lastOpenFiles": [
     "categories/favourites.md",
     "index.md",

@@ -20,7 +20,7 @@
     - [ELK笔记](notebook/elk/ELK笔记.md)
     - [解决七夕之后github push失败问题](notebook/trivial/github_push_err.md)
     - [非程序员使用python的场景](notebook/python/非程序员使用python的场景.md)
-    - [英文缩写解释](英文缩写解释.md)
+    - [英文缩写解释](notebook/trivial/英文缩写解释.md)
 
 - Others
     - [关闭pad和iPhone来电同步](notebook/trivial/关闭pad和iPhone来电同步.md)
@@ -42,7 +42,7 @@
     - [解析配置文件](notebook/python/解析配置文件.md)
     - [安装ipython 和 jupyter-notebook](notebook/python/安装ipython&jupyter-notebook-python2.md)
     - [Pythonのsys._getframe](notebook/python/sys._getframe.md)
-    - [Python并发编程](Python并发编程.md)
+    - [Python并发编程](notebook/python/Python并发编程.md)
 - flask
     - [静态文件加载方式](notebook/python/flask/静态文件加载)
     - [初始化问题解决](notebook/python/flask/初始化问题解决)
