@@ -41,6 +41,8 @@
     - [装饰器踩坑](notebook/python/python装饰器.md)
     - [解析配置文件](notebook/python/解析配置文件.md)
     - [安装ipython 和 jupyter-notebook](notebook/python/安装ipython&jupyter-notebook-python2.md)
+    - [Pythonのsys._getframe](notebook/python/sys._getframe.md)
+    - [Python并发编程](Python并发编程.md)
 - flask
     - [静态文件加载方式](notebook/python/flask/静态文件加载)
     - [初始化问题解决](notebook/python/flask/初始化问题解决)

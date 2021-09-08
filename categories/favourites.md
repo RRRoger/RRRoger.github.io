@@ -15,6 +15,7 @@
 ### 2. Blogs
 
 - [PostgreSQL - 一文看懂explain](https://www.zou8944.com/archives/postgresql-yi-wen-kan-dong-explain#etErMfex)
+- [为什么我们使用PostgreSQL而不用MySQL](https://www.zou8944.com/archives/sui-bi--wei-shen-me-wo-men-shi-yong-postgresql-er-bu-yong-mysql)
 
 
 ### 3. 知乎
@@ -26,3 +27,4 @@
 
 - [Kevin Kelly 给年轻人的99条建议](https://go123.live/kevin-kelly-99-additional-bits-of-unsolicited-advice-zh-cn/)
 - [Flask 2.0 版本发布](https://greyli.com/flask2/)
+- [PostgreSQL Limits](https://www.postgresql.org/docs/13/limits.html)

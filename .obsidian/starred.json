@@ -4,6 +4,11 @@
       "type": "file",
       "title": "青橙色调进阶教程",
       "path": "notebook/Lightroom/青橙色调进阶教程.md"
+    },
+    {
+      "type": "file",
+      "title": "Python多线程开发",
+      "path": "notebook/python/Python并发编程.md"
     }
   ]
 }

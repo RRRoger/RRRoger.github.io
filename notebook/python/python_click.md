@@ -1,5 +1,3 @@
-
-
 # Python Click 介绍
 
 > 最近发现一个非常nice的python库: `Click`, 对热衷于写脚本的"Script Kid"非常友好.

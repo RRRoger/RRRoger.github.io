@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a37fdb12ee55f4b",
+        "id": "6a875cf2b054fc43",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "categories/favourites.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "英文",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "categories/favourites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "categories/favourites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "categories/favourites.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,17 +151,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4a37fdb12ee55f4b",
+  "active": "6a875cf2b054fc43",
   "lastOpenFiles": [
     "categories/favourites.md",
     "index.md",
-    "notebook/linux/vim最常用的命令.md",
-    "notebook/linux/ubuntu换源.md",
-    "notebook/linux/ubuntu搭建内网穿透服务Ngrok.md",
-    "notebook/linux/Ubuntu安装微软字体.md",
-    "notebook/linux/tools.md",
-    "notebook/linux/Rsync的一些用法.md",
-    "notebook/linux/nginx_ssl_set_up.md",
-    "notebook/linux/乱炖.md"
+    "notebook/database/postgres/explain.md",
+    "notebook/python/Python并发编程.md",
+    "kanban.md",
+    "notebook/python/Python多线程开发.md",
+    "categories/python.md",
+    "notebook/weapp/微信小程序支持多语言.md",
+    "notebook/weapp/images/en_US.png",
+    "notebook/weapp/images/zh_CN.png"
   ]
 }
