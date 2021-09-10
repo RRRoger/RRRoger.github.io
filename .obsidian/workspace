@@ -7,8 +7,11 @@
         "id": "9288e1f9aaa416ac",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notebook/python/Python并发编程.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notebook/python/Python并发编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notebook/python/Python并发编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notebook/python/Python并发编程.md"
+              }
             }
           },
           {
@@ -153,10 +160,10 @@
   },
   "active": "9288e1f9aaa416ac",
   "lastOpenFiles": [
+    "notebook/python/Python并发编程.md",
     "categories/favourites.md",
     "index.md",
     "notebook/database/postgres/explain.md",
-    "notebook/python/Python并发编程.md",
     "kanban.md",
     "notebook/python/Python多线程开发.md",
     "categories/python.md",

@@ -153,6 +153,10 @@ if __name__ == '__main__':
 
 
 
+## 总结: 
+
+![multipress_tips](multipress_tips.jpg)![]()
+
 ## 协程(*Coroutine*)
 
 子程序调用是通过栈实现的，一个线程就是执行一个子程序。
