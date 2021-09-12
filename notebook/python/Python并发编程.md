@@ -4,7 +4,7 @@
 
 ## GIL锁 (Global Interpreter Lock)
 
-<img src="/Users/chenpeng/Library/Application Support/typora-user-images/image-20210912140334271.png" alt="image-20210912140334271" style="zoom: 33%;" />
+<img src="https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/image-20210912140334271.png" style="zoom:33%;" />
 
 Python的线程虽然是真正的线程，但***解释器***执行代码时，有一个GIL锁(*Global Interpreter Lock*)，**任何**Python线程执行前，必须先获得GIL锁，然后，每执行100条字节码，解释器就自动释放GIL锁，让别的线程有机会执行。这个GIL全局锁实际上把所有线程的执行代码都给上了锁，所以，多线程在Python中只能交替执行，即使100个线程跑在100核CPU上，也只能用到1个核。
 
@@ -220,7 +220,7 @@ with ThreadPoolExecutor() as pool:
 - 用一个超级循环(while True)
 - 配合IO多路复用原理(IO时CPU可以干其他事情)
 
-<img src="/Users/chenpeng/Library/Application Support/typora-user-images/image-20210912145850029.png" alt="image-20210912145850029" style="zoom:33%;" />
+<img src="https://cdn.jsdelivr.net/gh/ihatebeans/images@main/img/image-20210912145850029.png" style="zoom:33%;" />
 
 子程序调用是通过栈实现的，一个线程就是执行一个子程序。
 子程序调用总是一个入口，一次返回，调用顺序是明确的。而协程的调用和子程序不同。
