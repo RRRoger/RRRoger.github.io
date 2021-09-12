@@ -35,6 +35,7 @@
 
 - Common
     - [《Python进阶》](https://py.eastlakeside.cn)
+    - [UnderStanding GIL](static/pdf/UnderstandingGIL.pdf)
     - [Python Future用法](notebook/python/python_future.md)
     - [Python Click](notebook/python/python_click.md)
     - [minicoda安装步骤及问题](notebook/python/minicoda安装步骤及问题.md)
