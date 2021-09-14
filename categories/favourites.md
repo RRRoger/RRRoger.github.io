@@ -16,6 +16,7 @@
 
 - [PostgreSQL - 一文看懂explain](https://www.zou8944.com/archives/postgresql-yi-wen-kan-dong-explain#etErMfex)
 - [为什么我们使用PostgreSQL而不用MySQL](https://www.zou8944.com/archives/sui-bi--wei-shen-me-wo-men-shi-yong-postgresql-er-bu-yong-mysql)
+- [程序员怎么会不知道 C10K 问题呢？](https://medium.com/@chijianqiang/%E7%A8%8B%E5%BA%8F%E5%91%98%E6%80%8E%E4%B9%88%E4%BC%9A%E4%B8%8D%E7%9F%A5%E9%81%93-c10k-%E9%97%AE%E9%A2%98%E5%91%A2-d024cb7880f3)
 
 
 ### 3. 知乎
@@ -26,5 +27,7 @@
 ### 其他
 
 - [Kevin Kelly 给年轻人的99条建议](https://go123.live/kevin-kelly-99-additional-bits-of-unsolicited-advice-zh-cn/)
+- [Kevin Kelly 给年轻人的99条建议 2](https://www.v2ex.com/t/774144)
 - [Flask 2.0 版本发布](https://greyli.com/flask2/)
 - [PostgreSQL Limits](https://www.postgresql.org/docs/13/limits.html)
+

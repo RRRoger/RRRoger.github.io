@@ -111,6 +111,7 @@
 - [vim最常用的几个命令](notebook/linux/vim最常用的命令.md)
 - [Rsync 的一些用法](notebook/linux/Rsync的一些用法.md)
 - [ubuntu搭建内网穿透服务Ngrok](notebook/linux/ubuntu搭建内网穿透服务Ngrok.md)
+- [grep命令使用](notebook/linux/grep命令使用.md)
 
 ## Odoo
 - [系统 - Supervisor管理odoo服务](notebook/odoo/Supervisor管理odoo服务.md)
