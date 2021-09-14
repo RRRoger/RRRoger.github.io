@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9288e1f9aaa416ac",
+        "id": "ab02094337f4e703",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notebook/python/Python并发编程.md",
+            "file": "notebook/trivial/英文缩写解释.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notebook/python/Python并发编程.md",
+                "file": "notebook/trivial/英文缩写解释.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notebook/python/Python并发编程.md",
+                "file": "notebook/trivial/英文缩写解释.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notebook/python/Python并发编程.md"
+                "file": "notebook/trivial/英文缩写解释.md"
               }
             }
           },
@@ -158,17 +158,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9288e1f9aaa416ac",
+  "active": "ab02094337f4e703",
   "lastOpenFiles": [
-    "notebook/python/Python并发编程.md",
-    "categories/favourites.md",
+    "notebook/trivial/英文缩写解释.md",
     "index.md",
+    "notebook/linux/grep命令使用.md",
+    "notebook/python/Python并发编程.md",
+    "static/pdf/UnderstandingGIL.pdf",
+    "categories/favourites.md",
     "notebook/database/postgres/explain.md",
     "kanban.md",
     "notebook/python/Python多线程开发.md",
-    "categories/python.md",
-    "notebook/weapp/微信小程序支持多语言.md",
-    "notebook/weapp/images/en_US.png",
-    "notebook/weapp/images/zh_CN.png"
+    "categories/python.md"
   ]
 }
