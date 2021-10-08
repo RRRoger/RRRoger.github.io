@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3956818645723559",
+        "id": "adbe586938d53c1e",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -151,17 +151,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3956818645723559",
+  "active": "adbe586938d53c1e",
   "lastOpenFiles": [
-    "notebook/trivial/英文缩写解释.md",
+    "categories/favourites.md",
     "index.md",
+    "README.md",
+    "notebook/trivial/英文缩写解释.md",
+    "kanban.md",
+    "notebook/python/multipress_tips.jpg",
     "notebook/linux/grep命令使用.md",
     "notebook/python/Python并发编程.md",
     "static/pdf/UnderstandingGIL.pdf",
-    "categories/favourites.md",
-    "notebook/database/postgres/explain.md",
-    "kanban.md",
-    "notebook/python/Python多线程开发.md",
-    "categories/python.md"
+    "notebook/database/postgres/explain.md"
   ]
 }

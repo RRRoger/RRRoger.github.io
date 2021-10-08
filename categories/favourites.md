@@ -2,14 +2,20 @@
 
 ### 1. [v2ex](https://www.v2ex.com)
 
-- [公司内部做一次好的技术分享需要注意哪些事情?](https://www.v2ex.com/t/755724)
-- [答:如何写好一篇技术简历?](https://www.v2ex.com/t/623704#reply86)
-- [大家喜欢使用 anaconda 吗？](https://www.v2ex.com/t/521254#reply73)
-- [想出国玩一趟，求指导](https://www.v2ex.com/t/537172#reply129)
-- [该不该提前还贷？](https://www.v2ex.com/t/531921)
-- [我想给团队搭建一个 wiki，大家有什么方便使用的开源 wiki 推荐吗 ？](https://www.v2ex.com/t/735110#reply99)
-- [求推荐开源 markdown 编辑器](https://www.v2ex.com/t/658439#reply40)
-- [Python 中同一个字符串的 hash 值在不同机器上为啥不一样？](https://www.v2ex.com/t/787660#reply8)
+- **Python**
+
+    - [Python 中同一个字符串的 hash 值在不同机器上为啥不一样？](https://www.v2ex.com/t/787660#reply8)
+    - [这段代码在 Python 里能怎么改写成效率更高的吗，听说 for 循环比较慢](https://www.v2ex.com/t/806172)
+    - [大家喜欢使用 anaconda 吗？](https://www.v2ex.com/t/521254#reply73)
+
+- **其他**
+
+    - [公司内部做一次好的技术分享需要注意哪些事情?](https://www.v2ex.com/t/755724)
+    - [答:如何写好一篇技术简历?](https://www.v2ex.com/t/623704#reply86)
+    - [想出国玩一趟，求指导](https://www.v2ex.com/t/537172#reply129)
+    - [该不该提前还贷？](https://www.v2ex.com/t/531921)
+    - [我想给团队搭建一个 wiki，大家有什么方便使用的开源 wiki 推荐吗 ？](https://www.v2ex.com/t/735110#reply99)
+    - [求推荐开源 markdown 编辑器](https://www.v2ex.com/t/658439#reply40)
 
 
 ### 2. Blogs
