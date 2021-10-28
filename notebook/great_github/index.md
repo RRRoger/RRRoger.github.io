@@ -25,3 +25,6 @@
 | [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) | ![](https://img.shields.io/badge/-knowledge-orange.svg?style=flat-square) ![](https://img.shields.io/badge/-python-blue.svg?style=flat-square) | Python 在数据科学方面使用库的速查表，<br />包含了 Pandas、Jupyter、SQL、Dask 等。<br />虽然都是些基本的 API 调用，但是用来备忘和速查足以 |
 | [click](https://github.com/pallets/click)                    | ![](https://img.shields.io/badge/-python-blue.svg?style=flat-square) | Python 的第三方库，用于快速创建命令行。<br />支持装饰器方式调用、多种参数类型、自动生成帮助信息等 |
 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) | ![](https://img.shields.io/badge/-application-AB6868.svg?style=flat-square) | 适用于 macOS 和 iOS 的 RSS 阅读器                            |
+| [q](https://github.com/harelba/q)                            | ![](https://img.shields.io/badge/-python-blue.svg?style=flat-square)![](https://img.shields.io/badge/-tool-2FA44F.svg?style=flat-square) | SQL 方式查询 CSV 文件的命令行工具。支持 where、group_by、join 查询和中文等多种字符编码，还可以把查询结果转存到数据库。终于不用为产品临下班，扔来的 CSV 文件而加班啦 |
+|                                                              |                                                              |                                                              |
+

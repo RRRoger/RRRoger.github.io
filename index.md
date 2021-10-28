@@ -85,7 +85,8 @@
     - [VACUUM - 垃圾收集](notebook/database/postgres/vacuum.md)
     - [MVCC 机制浅析](http://mysql.taobao.org/monthly/2017/10/01/)
     - [EXPLAIN 使用浅析](notebook/database/postgres/explain.md)
-
+    - [Homebrew自动更新PostgreSQL问题处理](notebook/database/postgres/Homebrew自动更新PostgreSQL问题处理.md)
+    
 - oracle
     - [cx_Oracle安装](notebook/database/oracle/cx_Oracle安装.md)
 
