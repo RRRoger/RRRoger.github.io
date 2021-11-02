@@ -1,5 +1,7 @@
 # Mark一个docker教程
 
+> 一小时入门docker, 基本知识点都涵盖了.
+
 #### [Docker快速入门 - 文档入口](https://docker.easydoc.net/doc/81170005/cCewZWoN/AWOEX9XM)
 
 - Docker 简介和安装
