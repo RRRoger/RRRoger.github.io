@@ -4,6 +4,8 @@
 >
 > - [HelloGitHub](https://github.com/521xueweihan/HelloGitHub)
 > - [Trending](https://github.com/trending/python?since=daily)
+> - [Github Daily](https://weibo.com/GitHubDaily?refer_flag=1005055013_)
+> - [V2ex](https://www.v2ex.com/)
 
 ![](https://img.shields.io/badge/-python-blue.svg?style=flat-square) ![](https://img.shields.io/badge/-knowledge-orange.svg?style=flat-square) ![](https://img.shields.io/badge/-magazine-ff69b4.svg?style=flat-square) ![](https://img.shields.io/badge/-tool-2FA44F.svg?style=flat-square) ![](https://img.shields.io/badge/-resource-3AB7D0.svg?style=flat-square) ![](https://img.shields.io/badge/-application-AB6868.svg?style=flat-square)
 
@@ -27,4 +29,5 @@
 | [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) | ![](https://img.shields.io/badge/-application-AB6868.svg?style=flat-square) | 适用于 macOS 和 iOS 的 RSS 阅读器                            |
 | [q](https://github.com/harelba/q)                            | ![](https://img.shields.io/badge/-python-blue.svg?style=flat-square)![](https://img.shields.io/badge/-tool-2FA44F.svg?style=flat-square) | SQL 方式查询 CSV 文件的命令行工具。支持 where、group_by、join 查询和中文等多种字符编码，还可以把查询结果转存到数据库。终于不用为产品临下班，扔来的 CSV 文件而加班啦 |
 | [rich](https://github.com/willmcgugan/rich)                  | ![](https://img.shields.io/badge/-python-blue.svg?style=flat-square)![](https://img.shields.io/badge/-tool-2FA44F.svg?style=flat-square) | 丰富你的Python程序终端输出                                   |
+| [excalidraw](https://excalidraw.com/)                        | ![](https://img.shields.io/badge/-tool-2FA44F.svg?style=flat-square) | 一个手绘风格的流程图制作工具                                 |
 
