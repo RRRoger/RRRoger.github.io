@@ -1,7 +1,7 @@
 # Centos 安装Docker 以及遇到的问题
 
 > 参考链接1: https://www.jianshu.com/p/1f6b64d72e40
->
+> 
 > 参考链接2: https://www.jianshu.com/p/b038f63fe929
 
 ## 一、卸载老版本
@@ -79,9 +79,9 @@ curl http://localhost:2375/version
 #### 4、开放端口
 
 > 需要将2375端口进行开放才能被远程连接，
->
+> 
 > 如果是阿里云主机的话，可以直接登录阿里云去进行开放
->
+> 
 > 如果是虚拟机的话，可以用以下命令进行开放：
 
 ```bash
@@ -93,11 +93,10 @@ firewall-cmd --zone=public --add-port=2375/tcp --permanent
 ## 问题一、problem with installed package podman...
 
 > Problem 1: problem with installed package podman-2.2.1-7.module_el8.3.0+699+d61d9c41.x86_64
->
+> 
 > https://github.com/docker/containerd-packaging/issues/210#issuecomment-756773930
 
 ```bash
 sudo yum remove runc
 sudo yum install docker-ce docker-ce-cli containerd.io
 ```
-

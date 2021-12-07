@@ -1,5 +1,4 @@
 ---
-
 kanban-plugin: basic
 
 ---
@@ -13,9 +12,6 @@ kanban-plugin: basic
 - [ ] [[Python并发编程]] 
 - [ ] [[interview]]
 
-
 ## done
 
 - [ ] [[explain]]
-
-
