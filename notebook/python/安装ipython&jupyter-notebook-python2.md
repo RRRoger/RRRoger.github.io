@@ -1,7 +1,7 @@
 # 安装 ipython & jupyter-notebook (python)
 
-
 ## 1.安装ipython
+
 > 因为ipython对于python2 只支持到5.x
 
 ### 先输入下面命令, 找到最新的5.x版本
@@ -52,16 +52,17 @@ jupyter notebook --generate-config
 ```
 
 > ps:
-如果是 root 用户执行上面的命令，会发生一个问题：
-jupyter notebook --generate-config --allow-config
+> 如果是 root 用户执行上面的命令，会发生一个问题：
+> jupyter notebook --generate-config --allow-config
 
-### 2.设置密码 
+### 2.设置密码
 
 jupyter notebook password # type twice
 
 路径: ~/.jupyter/jupyter_notebook_config.json
 
 ### 3.复制密码
+
 ```bash
 more ~/.jupyter/jupyter_notebook_config.json #
 ```
@@ -85,7 +86,6 @@ jupyter notebook
 ```
 
 > 123 ; sha1:8d5df3123670:044e665e217abd4ec57ef67f78e5dc59e41433b8
-
 
 ## 后台启动并将日志写入指定文件
 

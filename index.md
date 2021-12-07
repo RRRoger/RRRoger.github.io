@@ -142,7 +142,7 @@
 
 ## Java
 
--   [若依框架整理](notebook/java/ruoyi.md)
+- [若依框架整理](notebook/java/ruoyi.md)
 
 ## [小程序](categories/weapp.md)
 
