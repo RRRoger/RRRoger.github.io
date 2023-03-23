@@ -45,6 +45,7 @@
   - [安装ipython 和 jupyter-notebook](notebook/python/安装ipython&jupyter-notebook-python2.md)
   - [Pythonのsys._getframe](notebook/python/sys._getframe.md)
   - [Python并发编程](notebook/python/Python并发编程.md)
+  - [SSL证书验证失败问题的解决](notebook/python/SSL证书验证失败问题的解决.md)
 - flask
   - [静态文件加载方式](notebook/python/flask/静态文件加载)
   - [初始化问题解决](notebook/python/flask/初始化问题解决)
